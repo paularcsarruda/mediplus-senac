@@ -1,4 +1,46 @@
-# Welcome to your Expo app 👋
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eaae6067-03bb-4b20-b9e4-5ba874e11005" alt="medication-tracking-app-concept" width="400">
+</p>
+
+# Medi+
+
+Repositório dedicado ao desenvolvimento do Aplicativo Medi+, referente a segunda entrega do Projeto Integrador do Senac/SP.
+
+### 👉 Grupo 22
+
+> - Ana Cláudia de Souza Santos
+> - Carolina Moreira Batatinha de Souza
+> - Igor de Paula Gonçalves
+> - Leia Soares da Silva Mendes
+> - Paula Roberta Correa dos Santos Arruda
+
+## ⚙️Principais Recursos
+> - Cadastro de Medicamentos
+> - Agendamento de Horários
+> - Lembretes e Alarmes
+> - Histórico de Consumo
+> - Alertas para Cuidador ou Família
+> - Relatórios para Profissionais de Saúde
+> - Integração com Dispositivos de Saúde
+
+## Estrutura de Diretórios - MVC (Model-View-Controller)
+
+## MockUp - Figma
+
+## Landing Page
+
+## Modelo Físico de Banco de Dados
+
+
+## Linguagens, Ferramentas e Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+# Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
